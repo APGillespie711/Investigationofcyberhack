@@ -1,4 +1,4 @@
-# Investigationofcyberhack
+# Investigation of cyberhack
 
 ## Case Study: Cybersecurity Incident Response and Investigation
 
